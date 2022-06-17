@@ -52,7 +52,7 @@ By the completion of this course, students will be able to:
 * **James Kunz**: Thursday immediately after his live session
 * **Mark Butler**: Friday at 5pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
-* **Sandip Panesar**: Thursday at 1pm PST
+* **Sandip Panesar**: Saturday at 9am PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -164,7 +164,6 @@ If you run into a more serious issue that will affect your ability to complete t
 All students —undergraduate, graduate, professional full time, part time, law, etc.— must be familiar with and abide by the provisions of the "Student Code of Conduct" including those provisions relating to Academic Misconduct. All forms of academic misconduct, including cheating, fabrication, plagiarism or facilitating academic dishonesty will not be tolerated. The full text of the UC Berkeley Honor Code is available at:  https://teaching.berkeley.edu/berkeley-honor-code and the Student Code of Conduct is available at: https://sa.berkeley.edu/student-code-of-conduct#102.01_Academic_Misconduct
 
 We encourage studying in groups of two to four people. This applies to working on homework, discussing labs and projects, and studying. However, students must always adhere to the UC Berkeley Code of Conduct (http://sa.berkeley.edu/code-of-conduct ) and the UC Berkeley Honor Code (https://teaching.berkeley.edu/berkeley-honor-code ). In particular, all materials that are turned in for credit or evaluation must be written solely by the submitting student or group. Similarly, you may consult books, publications, or online resources to help you study. In the end, you must always credit and acknowledge all consulted sources in your submission (including other persons, books, resources, etc.)
-
 
 
 ## Final Project
@@ -294,10 +293,9 @@ will be released around the last live session of the week and due approximately 
   <ul>
     <li>Text Classification
   </ul></td>
-  <td></td>
+  <td>May&nbsp;21</td>
   <td>Jun&nbsp;5</td>
 </tr>
-
 
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
@@ -308,6 +306,17 @@ will be released around the last live session of the week and due approximately 
   <td>June&nbsp;11</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Multiclass Classification
+    <li>Summarization
+	<li>Question Answering
+  </ul></td>
+  <td>June&nbsp;11</td>
+  <td>June&nbsp;26</td>
+</tr>
 
 
 <tr><!--- Project Reports -->
