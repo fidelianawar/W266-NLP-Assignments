@@ -20,19 +20,19 @@
 
 # Question 2.1 (/5): How many trainable parameters are in your dense hidden layer?
 multiclass_text_classification_2_2_1: 
-- your answer
+- 76900
 
 # Question 2.2 (/5): How many trainable parameters are in your classification layer?
 multiclass_text_classification_2_2_2: 
-- your answer
+- 2020
 
 # Question 2.3 (/5): What is the Test accuracy score you get from your model with a batch size of 8?
 multiclass_text_classification_2_2_3: 
-- your answer
+- 0.67162
 
 # Question 2.4 (/5): What is the macro average f1 score you get from the classification report for batch size 8?
 multiclass_text_classification_2_2_4: 
-- your answer
+- 0.65
 
 
 # ------------------------------------------------------------------
@@ -41,11 +41,11 @@ multiclass_text_classification_2_2_4:
 
 # Question 3.1 (/5): What is the test accuracy you get when you run the cleaned model with batch size 8?
 multiclass_text_classification_3_3_1: 
-- your answer
+- 0.70981
 
 # Question 3.2 (/5): What is the weighted avg F1 score in the classification when you run the cleaned model with batch size of 8?
 multiclass_text_classification_3_3_2: 
-- your answer
+- 0.69
 
 
 # ------------------------------------------------------------------
@@ -54,15 +54,11 @@ multiclass_text_classification_3_3_2:
 
 # Question 4.1 (/5): What is the Test accuracy you get when you run the cleaned model with batch size 16?
 multiclass_text_classification_4_4_1: 
-- your answer
+- 0.71989
 
 # Question 4.2 (/5): Which category is consistenly underperforming in both the classification reports and the confusion matrices?
 # (This question is multiple choice.  Delete all but the correct answer).
 multiclass_text_classification_4_4_2: 
- - comp.windows.x
- - rec.sport.baseball
- - sci.med
- - soc.religion.christian
  - talk.religion.misc
 
 # Question 4.3 (/2): The training data set is evenly distributed across all of the categories (True or False)?
@@ -83,19 +79,19 @@ multiclass_text_classification_4_4_3: False
 
 # Question 1.1 (/1): What num_beams value gives you the most readable output?
 summarization_test_1_1_1: 
-- your answer
+- 5
 
 # Question 1.2 (/1): Which no_repeat_ngram_size gives the most readable output?
 summarization_test_1_1_2: 
-- your answer
+- 2
 
 # Question 1.3 (/1): What min_length value gives you the most readable output?
 summarization_test_1_1_3: 
-- your answer
+- 10
 
 # Question 1.4 (/1): Which max_length value gives the most readable output?
 summarization_test_1_1_4: 
-- your answer
+- 50
 
 
 # ------------------------------------------------------------------
@@ -104,19 +100,19 @@ summarization_test_1_1_4:
 
 # Question 2.1 (/1): What num_beams value gives you the most readable output?
 summarization_test_2_2_1: 
-- your answer
+- 5
 
 # Question 2.2 (/1): Which no_repeat_ngram_size gives the most readable output?
 summarization_test_2_2_2: 
-- your answer
+- 2
 
 # Question 2.3 (/1): What min_length value gives you the most readable output?
 summarization_test_2_2_3: 
-- your answer
+- 10
 
 # Question 2.4 (/1): Which max_length value gives the most readable output?
 summarization_test_2_2_4: 
-- your answer
+- 50
 
 
 # ------------------------------------------------------------------
@@ -125,19 +121,19 @@ summarization_test_2_2_4:
 
 # Question 3.1 (/1): What num_beams value gives you the most readable output?
 summarization_test_3_3_1: 
-- your answer
+- 5
 
 # Question 3.2 (/1): Which no_repeat_ngram_size gives the most readable output?
 summarization_test_3_3_2: 
-- your answer
+- 2
 
 # Question 3.3 (/1): What min_length value gives you the most readable output?
 summarization_test_3_3_3: 
-- your answer
+- 10
 
 # Question 3.4 (/1): Which max_length value gives the most readable output?
 summarization_test_3_3_4: 
-- your answer
+- 55
 
 
 
@@ -154,8 +150,8 @@ summarization_test_3_3_4:
 
 # Question 1.1a (/4): What is the first sentence that returns the correct answer at least 7 out of 10 times? Write your answer in the answer slot.
 question_answering_test_1_1_1a: 
-- your answer
+- "I want to <extra_id_0> in COUNTRY."
 
 # Question 1.1b (/4): What is the second sentence that returns the correct answer at least 7 out of 10 times? Write your answer in the answer slot.
 question_answering_test_1_1_1b: 
-- your answer
+- "My favorite city in COUNTRY is <extra_id_0>."
